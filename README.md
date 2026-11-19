@@ -6,8 +6,8 @@
 
 *The market is brutal. A sharp-tongued, branch-by-branch discovery Agent Skill that grills physical e-commerce sellers into verifiable selling-point truth bases.*
 
-<a href="README.md"><img alt="简体中文 · 当前" src="https://img.shields.io/badge/-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-111?style=for-the-badge"></a>
-<a href="README.en.md"><img alt="English · Switch" src="https://img.shields.io/badge/-English-Switch-555?style=for-the-badge"></a>
+<a href="README.md"><img alt="简体中文 · 当前" src="https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-%E5%BD%93%E5%89%8D-111?style=for-the-badge"></a>
+<a href="README.en.md"><img alt="English · Switch" src="https://img.shields.io/badge/English-Switch-555?style=for-the-badge"></a>
 
 [![Agent Skill](https://img.shields.io/badge/Agent-Skill-blue.svg)](#)
 [![Compatible](https://img.shields.io/badge/Compatible-Claude%20Code%20%7C%20Codex%20%7C%20Cursor-black.svg)](#)
@@ -147,6 +147,6 @@ git clone https://github.com/w2968066/sell-or-die.git ~/.agents/skills/sell-or-d
 
 <div align="center">
 
-<a href="README.en.md"><img alt="Read in English" src="https://img.shields.io/badge/-Read%20in%20English-%E2%86%92-555?style=for-the-badge"></a>
+<a href="README.en.md"><img alt="Read in English" src="https://img.shields.io/badge/Read%20in-English-%E2%86%92-555?style=for-the-badge"></a>
 
 </div>

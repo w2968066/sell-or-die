@@ -6,8 +6,8 @@
 
 *市场是残酷的 —— 面向实物电商的「毒舌拷问式」卖点挖掘与资产底座 Agent Skill*
 
-<a href="README.md"><img alt="简体中文 · Switch" src="https://img.shields.io/badge/-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-Switch-555?style=for-the-badge"></a>
-<a href="README.en.md"><img alt="English · Current" src="https://img.shields.io/badge/-English-111?style=for-the-badge"></a>
+<a href="README.md"><img alt="简体中文 · Switch" src="https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-Switch-555?style=for-the-badge"></a>
+<a href="README.en.md"><img alt="English · Current" src="https://img.shields.io/badge/English-Current-111?style=for-the-badge"></a>
 
 [![Agent Skill](https://img.shields.io/badge/Agent-Skill-blue.svg)](#)
 [![Compatible](https://img.shields.io/badge/Compatible-Claude%20Code%20%7C%20Codex%20%7C%20Cursor-black.svg)](#)
@@ -130,6 +130,6 @@ This workflow synthesizes patterns from:
 
 <div align="center">
 
-<a href="README.md"><img alt="阅读中文版" src="https://img.shields.io/badge/-%E9%98%85%E8%AF%BB%E4%B8%AD%E6%96%87%E7%89%88-%E2%86%92-555?style=for-the-badge"></a>
+<a href="README.md"><img alt="阅读中文版" src="https://img.shields.io/badge/%E9%98%85%E8%AF%BB%E4%B8%AD%E6%96%87%E7%89%88-%E2%86%92-555?style=for-the-badge"></a>
 
 </div>
