@@ -1,6 +1,11 @@
 ---
 name: sell-or-die
+version: 1.0.0
+display_name: 卖点拷问
+display_name_en: sell-or-die
 description: Conducts a sharp-tongued, 4-branch discovery interrogation for physical e-commerce products to extract verified selling points, positive-only visual anchors, refund risks, price logic, and Douyin/Advertising Law compliance guardrails, then outputs a structured Markdown asset document. Use when the user wants to excavate product selling points, distill supplier specs or messy notes into a product brief, prepare product truth bases for livestreaming or short-video scripts, or says "拷问卖点", "提炼产品卖点", "整理带货卖点文档", "帮我扒一扒这个品的卖点", "用拷问模式梳理产品", or "sell-or-die".
+description_zh: 面向实物电商的毒舌拷问式卖点挖掘与资产底座。先用抖音规则与广告法做红线预检，再分 4 枝高压问答锁定主推 SKU、物理硬参数与正向视觉锚点，逼出真实缺点与劝退人群，最后输出可直接喂给直播脚本、短视频与 AI 视觉工作流的 Markdown 卖点资产文档。当用户说「拷问卖点」「提炼产品卖点」「整理带货卖点文档」「帮我扒一扒这个品的卖点」「用拷问模式梳理产品」或「sell-or-die」时使用。
+description_en: Sharp-tongued, 4-branch discovery interrogation for physical e-commerce products. Runs a Douyin and Advertising Law redline pre-check, locks the hero SKU, physical specs and positive-only visual anchors, forces out real flaws and disqualified buyers, then outputs a clean Markdown selling-point truth base ready for livestream scripts, short-video workflows and AI visual pipelines. Use when the user says "grill my selling points", "extract product selling points", "build a product brief", or "sell-or-die".
 ---
 
 # sell-or-die
